@@ -1,0 +1,23 @@
+{
+  "translation":{
+    "Vendas":"Vendas",
+    "Nova venda":"Nova venda",
+    "Buscar cliente":"Buscar cliente",
+    "Nome completo":"Nome completo",
+    "Subtotal":"Subtotal",
+    "Órgão emissor":"Órgão emissor",
+    "IE/RG":"IE/RG",
+    "CPF":"CPF",
+    "Celular":"Celular",
+    "Telefone":"Telefone",
+    "Data de nascimento":"Data de nascimento",
+    "Nacionalidade":"Nacionalidade",
+    "Estado de nascimento":"Estado de nascimento",
+    "Naturalidade(Cidade de nascimento)":"Naturalidade(Cidade de nascimento)",
+    "Estado civil":"Estado civil",
+    "Sexo":"Sexo",
+    "Atualizar":"Atualizar",
+    "Continuar":"Continuar",
+    "Voltar ":"Voltar"
+  }
+}

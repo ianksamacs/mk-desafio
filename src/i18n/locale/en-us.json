@@ -1,0 +1,24 @@
+{
+  "translation":{
+    "Vendas":"Sales",
+    "Nova venda":"New sale",
+    "Buscar cliente":"Search client",
+    "Nome completo":"Full name",
+    "Subtotal":"Subtotal",
+    "Órgão emissor":"Issuing agency",
+    "IE/RG":"IE/RG",
+    "CPF":"CPF",
+    "Celular":"Cell phone",
+    "Telefone":"Telephone",
+    "Data de nascimento":"Date of birth",
+    "Nacionalidade":"Nationality",
+    "Estado de nascimento":"State of birth",
+    "Naturalidade(Cidade de nascimento)":"Place of birth(City)",
+    "Estado civil":"Marital status",
+    "Sexo":"Sex",
+    "Atualizar":"Update",
+    "Continuar":"Continue",
+    "Voltar ":"Back"
+
+  }
+}

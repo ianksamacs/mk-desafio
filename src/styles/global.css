@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Baloo 2';
+  src: url('../public/fonts/Baloo2-Regular.ttf');
+}
+
+body{
+  font-family: 'Baloo 2';
+  font-weight: 700;
+}
